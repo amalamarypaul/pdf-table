@@ -1,0 +1,15 @@
+{
+  "name": "pdf-table",
+  "version": "1.0.0",
+  "description": "This is a package for generate pdf table from a list of data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdf",
+    "table"
+  ],
+  "author": "amala",
+  "license": "MIT"
+}
