@@ -1,6 +1,6 @@
 {
   "name": "pdf-table",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate PDF documents with table.",
   "main": "index.js",
   "scripts": {
