@@ -11,5 +11,8 @@
     "table"
   ],
   "author": "amala",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "pdfkit": "^0.11.0"
+  }
 }
